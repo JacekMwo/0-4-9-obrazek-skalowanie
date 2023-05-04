@@ -1,0 +1,11 @@
+.kwadrat { 
+    background-color: red;
+    background-image: url(../albert.jpg);
+    margin: auto;
+    margin-top: 15%;
+    width: 400px;
+    height: 400px;
+    background-position: 50% 50%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
